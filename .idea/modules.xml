@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/akka_sample/akka_sample.iml" filepath="$PROJECT_DIR$/akka_sample/akka_sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/akka_sample-build.iml" filepath="$PROJECT_DIR$/.idea/modules/akka_sample-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/akka_tcp_client/akka_tcp_client.iml" filepath="$PROJECT_DIR$/akka_tcp_client/akka_tcp_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/akka_tcp_client-build.iml" filepath="$PROJECT_DIR$/.idea/modules/akka_tcp_client-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/akka_tcp_server/akka_tcp_server.iml" filepath="$PROJECT_DIR$/akka_tcp_server/akka_tcp_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/akka_tcp_server/.idea/modules/akka_tcp_server-build.iml" filepath="$PROJECT_DIR$/akka_tcp_server/.idea/modules/akka_tcp_server-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/multi-scala.iml" filepath="$PROJECT_DIR$/.idea/modules/multi-scala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/multi-scala-build.iml" filepath="$PROJECT_DIR$/.idea/modules/multi-scala-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scala_protobuf.iml" filepath="$PROJECT_DIR$/.idea/modules/scala_protobuf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scala_protobuf-build.iml" filepath="$PROJECT_DIR$/.idea/modules/scala_protobuf-build.iml" />
+    </modules>
+  </component>
+</project>
