@@ -7,6 +7,10 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/akka_local" />
+            <option value="$PROJECT_DIR$/akka_local/project" />
+            <option value="$PROJECT_DIR$/akka_remote" />
+            <option value="$PROJECT_DIR$/akka_remote/project" />
             <option value="$PROJECT_DIR$/akka_sample" />
             <option value="$PROJECT_DIR$/akka_sample/project" />
             <option value="$PROJECT_DIR$/akka_tcp_client" />

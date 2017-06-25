@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/akka_local/akka-local.iml" filepath="$PROJECT_DIR$/akka_local/akka-local.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/akka_local-build.iml" filepath="$PROJECT_DIR$/.idea/modules/akka_local-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/akka_remote/akka-remote.iml" filepath="$PROJECT_DIR$/akka_remote/akka-remote.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/akka_remote-build.iml" filepath="$PROJECT_DIR$/.idea/modules/akka_remote-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/akka_sample/akka_sample.iml" filepath="$PROJECT_DIR$/akka_sample/akka_sample.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/akka_sample-build.iml" filepath="$PROJECT_DIR$/.idea/modules/akka_sample-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/akka_tcp_client/akka_tcp_client.iml" filepath="$PROJECT_DIR$/akka_tcp_client/akka_tcp_client.iml" />
