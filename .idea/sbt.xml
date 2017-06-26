@@ -7,6 +7,8 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/akka_cluster" />
+            <option value="$PROJECT_DIR$/akka_cluster/project" />
             <option value="$PROJECT_DIR$/akka_http" />
             <option value="$PROJECT_DIR$/akka_http/project" />
             <option value="$PROJECT_DIR$/akka_local" />

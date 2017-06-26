@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ScalaCompilerConfiguration">
-    <profile name="SBT 1" modules="scala-multi-project,scalapb,multi-scala,akka_http,akka_local,akka_remote,akka_sample,akka_tcp_client,akka_tcp_server,scala_protobuf" />
+    <profile name="SBT 1" modules="scala-multi-project,scalapb,multi-scala,akka_cluster,akka_http,akka_local,akka_remote,akka_sample,akka_tcp_client,akka_tcp_server,scala_protobuf" />
   </component>
 </project>

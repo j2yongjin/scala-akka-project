@@ -2,16 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://C:\project\scala\scala-multi-project\akka_local\akka-local.iml" filepath="C:\project\scala\scala-multi-project\akka_local\akka-local.iml" />
-      <module fileurl="file://C:\project\scala\scala-multi-project\akka_remote\akka-remote.iml" filepath="C:\project\scala\scala-multi-project\akka_remote\akka-remote.iml" />
-      <module fileurl="file://$PROJECT_DIR$/akka_http/akka_http.iml" filepath="$PROJECT_DIR$/akka_http/akka_http.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/akka_cluster.iml" filepath="$PROJECT_DIR$/.idea/modules/akka_cluster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/akka_cluster-build.iml" filepath="$PROJECT_DIR$/.idea/modules/akka_cluster-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/akka_http.iml" filepath="$PROJECT_DIR$/.idea/modules/akka_http.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/akka_http-build.iml" filepath="$PROJECT_DIR$/.idea/modules/akka_http-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/akka_local.iml" filepath="$PROJECT_DIR$/.idea/modules/akka_local.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/akka_local-build.iml" filepath="$PROJECT_DIR$/.idea/modules/akka_local-build.iml" />
-      <module fileurl="file://C:\project\scala\scala-multi-project\.idea\modules\akka_local-build.iml" filepath="C:\project\scala\scala-multi-project\.idea\modules\akka_local-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/akka_remote.iml" filepath="$PROJECT_DIR$/.idea/modules/akka_remote.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/akka_remote-build.iml" filepath="$PROJECT_DIR$/.idea/modules/akka_remote-build.iml" />
-      <module fileurl="file://C:\project\scala\scala-multi-project\.idea\modules\akka_remote-build.iml" filepath="C:\project\scala\scala-multi-project\.idea\modules\akka_remote-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/akka_sample/akka_sample.iml" filepath="$PROJECT_DIR$/akka_sample/akka_sample.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/akka_sample-build.iml" filepath="$PROJECT_DIR$/.idea/modules/akka_sample-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/akka_tcp_client/akka_tcp_client.iml" filepath="$PROJECT_DIR$/akka_tcp_client/akka_tcp_client.iml" />

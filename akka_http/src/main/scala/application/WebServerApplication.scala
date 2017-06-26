@@ -30,5 +30,5 @@ object WebServerApplication extends  HttpApp{
 
 }
 
-// Starting the server
-WebServerApplication.startServer("localhost", 80, ServerSettings(ConfigFactory.load))
+//// Starting the server
+//WebServerApplication.startServer("localhost", 80, ServerSettings(ConfigFactory.load))
