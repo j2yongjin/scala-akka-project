@@ -11,3 +11,4 @@ lazy val akka_tcp_client = Project(id = "akka_tcp_client" , base = file("akka_tc
 lazy val akka_sample = Project(id = "akka_sample" , base = file("akka_sample")).enablePlugins()
 lazy val akka_local = Project(id = "akka_local" , base = file("akka_local")).enablePlugins()
 lazy val akka_remote = Project(id = "akka_remote" , base = file("akka_remote")).enablePlugins()
+lazy val akka_http = Project(id = "akka_http" , base = file("akka_http")).enablePlugins()
